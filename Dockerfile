@@ -5,7 +5,7 @@ EXPOSE 25565
 
 VOLUME [ "/data" ]
 
-ENV URL=https://tekxit.lol/downloads/1.0.953TekxitPiServer.zip
+ENV URL=https://tekxit.lol/downloads/tekxit3.14/1.0.961TekxitPiServer.zip
 ENV INIT_MEM=2G
 ENV MAX_MEM=3G
 
